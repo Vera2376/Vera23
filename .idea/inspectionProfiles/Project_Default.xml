@@ -1,0 +1,19 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyUnresolvedReferencesInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredIdentifiers">
+        <list>
+          <option value="nombres" />
+          <option value="EjerciciosFunciones01.resultado" />
+          <option value="EjerciciosFunciones01.valor" />
+          <option value="Ejercicio10.opcion" />
+          <option value="Ejercicio10.telefono" />
+          <option value="Ejercicio11.telefono" />
+          <option value="Ejercicio11.opcion" />
+          <option value="Ejercicio11.nombre" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
