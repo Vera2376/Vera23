@@ -17,4 +17,4 @@ Certificaciòn ICANA UTN
 
 [Constancia de Taller Icana.pdf](https://github.com/Vera2376/Vera23/files/10611502/Constancia.de.Taller.Icana.pdf)
 
-:sun: :unicorns: :love: :cats:
+🌼: 🦄: 🤟: :octocat:
