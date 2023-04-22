@@ -17,6 +17,8 @@ Certificaciones 2022
 
 Certificaciòn ICANA UTN
 
-[Constancia de Taller Icana.pdf](https://github.com/Vera2376/Vera23/files/10611502/Constancia.de.Taller.Icana.pdf)
 
 🌼: 🦄: 🤟: :octocat:
+
+![tumblr_mx8k6oi0hj1sp6e2vo1_400](https://user-images.githubusercontent.com/103527322/233758954-03b532bd-0463-4edd-aa11-30fa0b70a41c.gif)
+
