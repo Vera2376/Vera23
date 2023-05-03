@@ -4,6 +4,7 @@
  <imag src="https://user-images.githubusercontent.com/103527322/235413186-1f19eb1d-6a4d-4ae1-9da3-031c7cccd67d.gif>
 <hi aling="center"> Hi, Im Vera</hi>
 
+
 <div id="badges" aling="center">
     <a href ="htpps://twitter.com/DazVera" target="_blanck">
         <ing src="https://img.shields.io/twitter/follow/DazVera?color=pink&logo=twitter&logoColor=green&style=for-the-badge>
@@ -18,6 +19,13 @@
 <iv>
  
 ![cat unicor](https://user-images.githubusercontent.com/103527322/235817227-1de10f37-1c18-46a8-8420-051fbb386477.gif)
+
+
+![Twitch Status](https://img.shields.io/twitch/status/veeraa?color=purple&logo=twitch&logoColor=pink&style=flat-square)
+![Twitter Status](https://img.shields.io/twitter/url?color=b&label=veraDaz&logo=twitter&logoColor=blue&style=flat-square&url=https%3A%2F%2Ftwitter.com%2FDazVera)
+![YouTube Status](https://img.shields.io/youtube/channel/subscribers/UCLm532z6KX4CyAFtGxwKqeQ?color=pink&logo=youtube&logoColor=red&style=flat-square)
+
+
 
 
 Didactics of programming at the initial level. Arduido UTNRT. UX/UI UTNRSR. Google Educator level2. Developer Jr in UTNSR.
