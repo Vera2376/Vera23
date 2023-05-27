@@ -58,25 +58,70 @@
                  
                  
                  
-  <div align="left">
-                 <h3> 💻 Languages and Tools :</h3>
-                 <Div>
-                   <ing src=>
+  <div>align="left">
+                   <h3> 💻 Languages and Tools :</h3>
+                   <div>
+                   <ing src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="HTML5" alt="HTML"
+                   
+                   
+                   
+                   
+                   
+                   
+                   
+                   
+                   <Div>
+                 
+                 
+                 
+                 
+                 
+                 
+                 
+                 
+                 
+                 
+                 
+                 
+    <div>>
+                 
+                   
+                   
+                   
+                 
+                   
+                   
+                   
+                   
+                   
+                   
+                   
                               
                    
 
 
                    
-                   :unicorn: :sun: :mountain: :butterfly:
-:heart: :rainbow: :flower: :cat:
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+     
+
+                 
 
 
-                 After Madrid 12/9/18  We already have the third one 12/18/22 
 
 
-
-
-
+---
 
 🌼: 🦄: 🤟: :octocat:
 
