@@ -59,9 +59,12 @@
                  
                  
   <div>align="left">
-                   <h3> 💻 Languages and Tools :</h3>
-                   <div>
-                   <ing src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="HTML5" alt="HTML"
+         <h3> 💻 Languages and Tools :</h3>
+             <div>
+                   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg"title="HTML5" alt="HTML"width"40"height"40 </&nbsp 
+                   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg"title="PYTHON" alt="PYTHON" width"40" height"40" </&nbsp
+                   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg"title="JAVA" alt="JAVA" width"40" height"40" </&nbsp
+                 
                    
                    
                    
@@ -70,7 +73,23 @@
                    
                    
                    
-                   <Div>
+                   
+                   
+                   
+                   
+                   
+                 
+                                                                                                             
+                                                                                                                     
+                   
+                   
+                   
+                   
+                   
+                   
+                   
+                   
+                   
                  
                  
                  
@@ -83,7 +102,7 @@
                  
                  
                  
-    <div>>
+    
                  
                    
                    
