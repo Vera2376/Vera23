@@ -25,27 +25,57 @@
 ![Twitter Status](https://img.shields.io/twitter/url?color=b&label=veraDaz&logo=twitter&logoColor=blue&style=flat-square&url=https%3A%2F%2Ftwitter.com%2FDazVera)
 ![YouTube Status](https://img.shields.io/youtube/channel/subscribers/UCLm532z6KX4CyAFtGxwKqeQ?color=pink&logo=youtube&logoColor=red&style=flat-square)
 
+---
+<div align="left">
+                 <h3> 💻 ♒About Me :</h3>
+                 <Div>
+
+                 
+                 
+                 
+                 
+                 🌼 Ask me about Java, Javascript, Python, Node JS, MySql
+
+                 📭 How to reach me ver1704@hotmail.com
+                 
+                 👩‍🏫 Teacher: Didactics of programming at the initial level
+                 
+                 🫖 English teacher  ICANA-Buenos Aires
+                 
+                  🇦🇷  Spanish teacher for foreigners 
+                 
+                 🍝 B2 Italianni
+                 
+                 🤖 Arduido UTNRT. 
+                 
+                 🖌️ Design UX/UI  in UTNRSR
+                 
+                 🍵 Google Educator level2 
+                 
+                 🤓 Developer Jr in UTNSR National Technological University. San Rafael-Mendoza Argentina
+                 
+                 🛠️ Tester Avanzado UTN Buenos Aires
+                 
+                 
+                 
+  <div align="left">
+                 <h3> 💻 Languages and Tools :</h3>
+                 <Div>
+                   <ing src=>
+                              
+                   
 
 
-
-Didactics of programming at the initial level. Arduido UTNRT. UX/UI UTNRSR. Google Educator level2. Developer Jr in UTNSR.
-
-:unicorn: :sun: :mountain: :butterfly:
+                   
+                   :unicorn: :sun: :mountain: :butterfly:
 :heart: :rainbow: :flower: :cat:
 
-After Madrid 12/9/18 
-We already have the third one 12/18/22 
-Hoy recibí mi certificado de Arduino de UTN Regional Tucumán. Profesor Ingeniero Vicente Franchino, un genio el profe!.
-[Arduino14_860_66_23251305714.pdf](https://github.com/Vera2376/Vera23/files/9688184/Arduino14_860_66_23251305714.pdf)
+
+                 After Madrid 12/9/18  We already have the third one 12/18/22 
 
 
-Certificaciones 2022
 
-[Curso Diseño UX UI UTN FRSR Nov 2022 Diaz.pdf](https://github.com/Vera2376/Vera23/files/10610245/Curso.Diseno.UX.UI.UTN.FRSR.Nov.2022.Diaz.pdf)
 
-:rainbow: :heart: :cat: :unicorn:
-
-Certificaciòn ICANA UTN
 
 
 🌼: 🦄: 🤟: :octocat:
