@@ -62,8 +62,11 @@
          <h3> 💻 Languages and Tools :</h3>
              <div>
                  
-                    
-                                                                                                             
+                
+   ![spotify 2](https://user-images.githubusercontent.com/103527322/233872252-57e16f81-e819-428d-bf2b-8cad9ec50ae5.gif)
+
+[![Spotify](https://https://vercel.com/vera2376/spotify/BXy2i3RmKuRYV5cAN2wgqtXHv3o1.vercel.app/api/spotify)](https://open.spotify.com/user/https://vercel.com/vera2376/spotify/BXy2i3RmKuRYV5cAN2wgqtXHv3o1)
+
                    
                    
                    
