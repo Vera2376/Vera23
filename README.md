@@ -67,6 +67,10 @@
 
 [![Spotify](https://https://vercel.com/vera2376/spotify/BXy2i3RmKuRYV5cAN2wgqtXHv3o1.vercel.app/api/spotify)](https://open.spotify.com/user/https://vercel.com/vera2376/spotify/BXy2i3RmKuRYV5cAN2wgqtXHv3o1)
 
+
+                   
+                   
+  ![Snake animation](https://github.com/lokywolf2295/lokywolf2295/blob/output/github-contribution-grid-snake.svg)
                    
                    
                    
