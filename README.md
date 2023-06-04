@@ -58,15 +58,29 @@
                  
                  
                  
-  <div>align="left">
+ <div>align="left">
          <h3> 💻 Languages and Tools :</h3>
              <div>
-                 
-                
-   ![spotify 2](https://user-images.githubusercontent.com/103527322/233872252-57e16f81-e819-428d-bf2b-8cad9ec50ae5.gif)
-
-[![Spotify](https://https://vercel.com/vera2376/spotify/BXy2i3RmKuRYV5cAN2wgqtXHv3o1.vercel.app/api/spotify)](https://open.spotify.com/user/https://vercel.com/vera2376/spotify/BXy2i3RmKuRYV5cAN2wgqtXHv3o1)
-
+ <div style="display: inline_block"><br>
+  <h2>🛠</h2>
+  
+  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="bootstrap" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg">
+  <img align="center" alt="Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
+  <img align="center" alt="Spring-Boot" height="30" width="40" src="https://i.postimg.cc/KzPHWxqN/Spring.png">
+  <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="sqlserver" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg">
+  <img align="center" alt="Mysql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg">
+  <img align="center" alt="PostgreSQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg">
+  <img align="center" alt="r" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg">
+  <img align="center" alt="Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-plain.svg">
+  <img align="center" alt="GitHub" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
+  <img align="center" alt="GitLab" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gitlab/gitlab-original.svg">
+  <img align="center" alt="Linux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
+  
+</div>
 
                    
                    
