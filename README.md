@@ -58,7 +58,7 @@
                  
                  
                  
- <div>align="left">
+ <div>
          <h3> 💻 Languages and Tools :</h3>
              <div>
  <div style="display: inline_block"><br>
